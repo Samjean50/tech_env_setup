@@ -11,8 +11,9 @@ This project focuses on setting up a development environment by installing essen
 
 Navigate to [VSCode Official Website](https://code.visualstudio.com/) and click Download for your computer type.
 
+![Vs Code](https://github.com/Samjean50/tech_env_setup/blob/main/visual%20studio.png)
 
-![Vs Code](Vs code.png)
+(https://github.com/Samjean50/tech_env_setup/edit/main/README.md#:~:text=Vs%20code.-,png,-aws.png))
 
 2. Install VSCode:
 
@@ -30,8 +31,7 @@ Open Launchpad or Finder > Applications and double-click Visual Studio Code.
 
 Open VSCode and check the version by navigating to Help > About.
 
-![Vs Code](Vs code.png)
-
+![Vs Code](https://github.com/Samjean50/tech_env_setup/blob/main/Vs%20code.png)
 #### Troubleshooting
 
 VSCode won’t open? Try opening from Terminal:
@@ -40,16 +40,16 @@ open /Applications/Visual\ Studio\ Code.app
 
 Extensions not working? Ensure your internet connection is stable and restart VSCode.
 
-#### 2. Installing Git
+### 2. Installing Git
 
-Steps to Install Git on macOS
+#### Steps to Install Git on macOS
 
 1. Download Git:
 
 Visit [Git Website](https://git-scm.com/downloads/win).
 
 Download and install the .dmg file.
-![Git](/Users/celeb/Documents/Tech_Env_Setup/git.png)
+![Git](https://github.com/Samjean50/tech_env_setup/blob/main/git.png)
 Verify Installation:
 
 ```git --version```
@@ -81,7 +81,7 @@ Visit [VirtualBox Official Website](https://www.virtualbox.org/).
 Download the macOS (Intel) version.
 
 
-![Virtual Box](Users/celeb/Documents/Tech_Env_Setup/virtual box web.png)
+![Virtual Box](https://github.com/Samjean50/tech_env_setup/blob/main/virtual%20box%20web.png)
 
 2. Install VirtualBox:
 
@@ -99,7 +99,7 @@ Click Allow under System Software from Oracle America, Inc..
 
 ```VBoxManage --version```
 
-![Virtual Box](virtbox app.png)
+![Virtual Box](https://github.com/Samjean50/tech_env_setup/blob/main/virtbox%20app.png)
 
 #### Troubleshooting
 
@@ -114,7 +114,7 @@ Steps to Install Ubuntu
 1. Download Ubuntu ISO:
 Visit [Ubuntu Official Website](https://ubuntu.com/download/desktop) and download the latest Ubuntu version.
 
-![Ubuntu](ubuntu web.png)
+![Ubuntu](https://github.com/Samjean50/tech_env_setup/blob/main/ubuntu%20web.png)
 
 1. Create a Virtual Machine in VirtualBox:
 
