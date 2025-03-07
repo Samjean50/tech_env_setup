@@ -1,7 +1,42 @@
 # Tech Environment Setup 
 
 ### Project Overview
-This project focuses on setting up a development environment by installing essential tools and creating necessary accounts. This document provides detailed installation steps, troubleshooting tips, and configuration guidelines for each tool and account setup.
+#### Purpose
+
+This project aims to provide a step-by-step guide for setting up a complete tech development environment. By following this guide, users will install essential tools, create necessary accounts, and configure their environment to support software development, cloud computing, and virtualization effectively.
+
+#### Requirements
+
+The setup includes the following tools and services:
+- Development Environment:
+
+  - Visual Studio Code (VSCode)
+
+  - Git
+
+- Virtualization:
+
+  - VirtualBox (for Intel chip macOS)
+
+  - Ubuntu on VirtualBox (Intel chip macOS)
+
+- Version Control and Cloud Services:
+
+  - GitHub account setup
+
+  - Amazon Web Services (AWS) account setup
+ 
+#### Use Case
+
+This guide is designed for developers, DevOps engineers, and cloud computing enthusiasts who need a robust development environment on macOS with an Intel chip. By setting up this environment, users can:
+
+- Write and manage code efficiently using VSCode and Git.
+
+- Virtualize an Ubuntu operating system for testing and development.
+
+- Store and manage code repositories with GitHub.
+
+- Utilize AWS for cloud-based development and hosting.
 
 ### 1. Installing Visual Studio Code (VSCode)
 
